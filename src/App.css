@@ -1,0 +1,19 @@
+.game-container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.game-footer {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	padding: 50px;
+}
+
+.game-header {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	padding: 25px;
+}
