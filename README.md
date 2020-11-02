@@ -1,4 +1,4 @@
-####### README
+# README
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The app is a simple game of checkers with an AI opponent.
 
